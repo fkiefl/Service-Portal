@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="TSI Service Portal">41a437624fa313008c582f9ca310c77f</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint>Entry of Service Portal Home</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>TSI Service Portal Home ➚</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/tssp?sysparm_stack=no</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 10:26:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>40c5bf624fa313008c582f9ca310c7d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TSI Service Portal Home ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TSI Service Portal" source="x_194767_tsi_servi">ba2defa64f6313008c582f9ca310c79c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TSI Service Portal">ba2defa64f6313008c582f9ca310c79c</sys_scope>
+        <sys_update_name>sys_app_module_40c5bf624fa313008c582f9ca310c7d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 10:26:36</sys_updated_on>
+        <timeline_page/>
+        <title>TSI Service Portal Home ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>tssp_portal</window_name>
+    </sys_app_module>
+</record_update>
