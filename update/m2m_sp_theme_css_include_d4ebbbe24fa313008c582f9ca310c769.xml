@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="m2m_sp_theme_css_include">
+    <m2m_sp_theme_css_include action="INSERT_OR_UPDATE">
+        <order/>
+        <sp_css_include display_value="tsi_helper.css">8a2b7f264fa313008c582f9ca310c771</sp_css_include>
+        <sp_theme display_value="TSI Theme">0fc9f3264fa313008c582f9ca310c706</sp_theme>
+        <sys_class_name>m2m_sp_theme_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 10:50:03</sys_created_on>
+        <sys_id>d4ebbbe24fa313008c582f9ca310c769</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tsi_helper.css.TSI Theme</sys_name>
+        <sys_package display_value="TSI Service Portal" source="x_194767_tsi_servi">ba2defa64f6313008c582f9ca310c79c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TSI Service Portal">ba2defa64f6313008c582f9ca310c79c</sys_scope>
+        <sys_update_name>m2m_sp_theme_css_include_d4ebbbe24fa313008c582f9ca310c769</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 10:50:03</sys_updated_on>
+    </m2m_sp_theme_css_include>
+</record_update>

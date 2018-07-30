@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary: #E20074;&#13;
+$body-bg: #f6f6f6;&#13;
+$state-success-text: #5cb85c;&#13;
+$sp-homepage-bg: #fff;&#13;
+$sp-navbar-divider-color: #a4a4a4;&#13;
+$text-color: #262626;&#13;
+$sp-logo-margin-y: .5rem;&#13;
+$navbar-inverse-link-hover-color: #383838;&#13;
+$panel-bg: #fff;&#13;
+$brand-success: #5cb85c;&#13;
+$navbar-inverse-bg: #ffffff;&#13;
+$brand-warning: #f0ad4e;&#13;
+$brand-danger: #d9534f;&#13;
+$sp-tagline-color: #4b4b4b;&#13;
+$navbar-inverse-link-color: #383838;&#13;
+$brand-info: #5bc0de;&#13;
+$link-color: #007faf;&#13;
+$sp-logo-margin-x: 15px;&#13;
+$btn-default-bg: #ededed;&#13;
+$text-muted: #979797;&#13;
+telekom-grey-1:#a4a4a4;&#13;
+telekom-grey-2:#7c7c7c;&#13;
+telekom-grey-3:#6c6c6c;&#13;
+telekom-grey-5:#4b4b4b;&#13;
+$telekom-grey-4:#ededed;&#13;
+telekom-grey-6:#d0d0d0;&#13;
+$telekom-grey-38:#262626;&#13;
+$telekom-yellow:#ffd329;&#13;
+$telekom-orange:#ff9a1e;&#13;
+$telekom-violet:#992c99;&#13;
+$telekom-dark-blue:#1063ad;&#13;
+$telekom-light-blue:#53baf2;&#13;
+$telekom-petrol:#1bada2;&#13;
+$telekom-green:#bfcb44;</css_variables>
+        <footer/>
+        <footer_fixed>false</footer_fixed>
+        <header/>
+        <name>TSI Theme</name>
+        <navbar_fixed>false</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 10:45:17</sys_created_on>
+        <sys_id>0fc9f3264fa313008c582f9ca310c706</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TSI Theme</sys_name>
+        <sys_package display_value="TSI Service Portal" source="x_194767_tsi_servi">ba2defa64f6313008c582f9ca310c79c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TSI Service Portal">ba2defa64f6313008c582f9ca310c79c</sys_scope>
+        <sys_update_name>sp_theme_0fc9f3264fa313008c582f9ca310c706</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 10:45:17</sys_updated_on>
+    </sp_theme>
+</record_update>
